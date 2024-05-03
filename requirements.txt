@@ -1,0 +1,5 @@
+gradio
+transformers
+redis
+deep_translator
+torch
