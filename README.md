@@ -10,8 +10,6 @@ Este repositório contém uma aplicação simples para realizar análise de sent
 
 - **Caching de Resultados**: Para otimizar o desempenho e reduzir o tempo de processamento, os resultados da análise de sentimento são armazenados em um banco de dados Redis. Isso permite que resultados anteriores sejam recuperados rapidamente se o mesmo texto for inserido novamente.
 
-Claro! Aqui está o passo a passo semelhante ao exemplo fornecido:
-
 ### Instalação e Uso
 
 Para testar esta solução, siga os passos abaixo:
