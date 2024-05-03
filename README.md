@@ -39,10 +39,6 @@ Para testar esta solução, siga os passos abaixo:
 
 4. Insira um texto na caixa de texto fornecida e pressione o botão "Submit" para realizar uma análise de sentimento.
 
-## Como Usar
-
-Para iniciar a aplicação, execute o arquivo `app.py`. Isso iniciará a interface da aplicação no seu navegador padrão. Você pode então digitar o texto em português na caixa de texto fornecida e pressionar Enter para ver o resultado da análise de sentimento.
-
 ## Dependências
 
 As seguintes bibliotecas são utilizadas neste projeto:
