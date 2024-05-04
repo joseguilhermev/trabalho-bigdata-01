@@ -1,4 +1,4 @@
-# Análise de Sentimento 🧐😮
+# Análise de Sentimento 😃😠
 
 Este repositório contém uma aplicação simples para realizar análise de sentimento em textos escritos em português. A aplicação utiliza a biblioteca Gradio para criar uma interface fácil de usar, permitindo que os usuários insiram texto em português e vejam o sentimento associado a ele.
 
